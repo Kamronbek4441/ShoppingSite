@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import products from './product';
+import products from './Product';
 import './ProductList.css';
 
 function ProductList({ addToCart }) {

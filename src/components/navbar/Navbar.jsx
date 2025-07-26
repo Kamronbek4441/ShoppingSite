@@ -16,7 +16,7 @@ const Navbar = ({ cartCount, cartItems, onRemove, onUpdate }) => {
   return (
     <>
       <nav className="navbar">
-        <div className="logo">MySite</div>
+        <div className="logo">Shop</div>
 
         <div className={`links ${isOpen ? "active" : ""}`}>
           <a href="/">Home</a>

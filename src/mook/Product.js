@@ -50,7 +50,7 @@ const product = [
   },
     {
     id: 8,
-    name: "Mause",
+    name: "Mouse",
     price: 25.00,
     image: "https://ae01.alicdn.com/kf/S6fb75702d0e94ee596c71387be871ab3Y.png",
     description: "Professional gemerlar uchun.",
